@@ -12,6 +12,7 @@ dependencies = [
     "gitpython>=3.1.43",
     "python-multipart>=0.0.20",
     "sse-starlette>=2.1.3",
+    "cognee[codegraph,fastembed]>=1.2.2",
 ]
 
 [project.optional-dependencies]
